@@ -77,3 +77,14 @@ highlighted-text{
      transform: scale(1.07);
      transition: 1s ease-in-out;
  }
+
+ .coolz .coolz-icon i{
+     color: cornsilk;
+     padding: 8px;
+     padding-left: 0px;
+ }
+
+ .coolz .coolz-icon i:hover{
+     transform: scale(1.5);
+
+ }
