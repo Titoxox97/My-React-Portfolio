@@ -4,7 +4,6 @@
     text-align: center;
     height: 10%;
     min-height: fit-content;
-    background-image: url('../../assets//dashboard/bg.jpg');
 }
 
 .profile-parent{
@@ -68,7 +67,7 @@ highlighted-text{
  .profile-pic-background {
      height: 92%;
      width: 92%;
-     background-image: url('../../assets/dashboard/IMG_1804.jpg');
+     background-image: url('../../../assets/dashboard/IMG_1804.jpg');
      background-size: cover;
      border-radius: 50%;
      background-repeat: no-repeat;

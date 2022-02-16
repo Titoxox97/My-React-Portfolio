@@ -6,7 +6,7 @@ export default function Footer() {
     <div className="footer-container">
       <div className="footer-mother">
         <img
-          src={require("../../../assets/dashboard/shape-bg.png").default}
+          src={require("../../../assets/dashboard/bookNegative.svg").default}
           alt="no internet connection"
         />
       </div>
